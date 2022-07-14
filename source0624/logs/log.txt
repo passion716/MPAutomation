@@ -1,0 +1,7 @@
+2022-07-13 11:07:14,489 [INFO] Logging Init
+2022-07-13 11:07:14,491 [INFO] Logging Init
+2022-07-13 11:07:14,491 [INFO] Logging Init
+2022-07-13 11:07:14,501 [INFO] Enter setupUi
+2022-07-13 11:07:14,501 [INFO] Enter setupUi
+2022-07-13 11:07:14,780 [INFO] Enter retranslateUi
+2022-07-13 11:07:14,780 [INFO] Enter retranslateUi
